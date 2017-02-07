@@ -13,12 +13,6 @@ Other amazingly awesome lists can be found in the
 
 .. contents:: Table of Contents
 
-
-Agriculture
-------------
-* `U.S. Department of Agriculture's PLANTS Database <http://www.plants.usda.gov/dl_all.html>`_
-
-
 Biology
 -------
 
@@ -64,27 +58,6 @@ Biology
 * `UCSC Public Data <http://hgdownload.soe.ucsc.edu/downloads.html>`_
 * `Universal Protein Resource (UnitProt) <http://www.uniprot.org/downloads>`_
 * `UniGene <http://www.ncbi.nlm.nih.gov/unigene>`_
-
-
-Climate/Weather
----------------
-* `Actuaries Climate Index <http://actuariesclimateindex.org/data/>`_
-* `Australian Weather <http://www.bom.gov.au/climate/dwo/>`_
-* `Aviation Weather Center - Consistent, timely and accurate weather information for the world airspace system <https://aviationweather.gov/adds/dataserver>`_
-* `Brazilian Weather - Historical data (In Portuguese) <http://sinda.crn2.inpe.br/PCD/SITE/novo/site/>`_
-* `Canadian Meteorological Centre <http://weather.gc.ca/grib/index_e.html>`_
-* `Climate Data from UEA (updated monthly) <https://crudata.uea.ac.uk/cru/data/temperature/#datter and ftp://ftp.cmdl.noaa.gov/>`_
-* `European Climate Assessment & Dataset <http://eca.knmi.nl/>`_
-* `Global Climate Data Since 1929 <http://en.tutiempo.net/climate>`_
-* `NASA Global Imagery Browse Services <https://wiki.earthdata.nasa.gov/display/GIBS>`_
-* `NOAA Bering Sea Climate <http://www.beringclimate.noaa.gov/>`_
-* `NOAA Climate Datasets <http://www.ncdc.noaa.gov/data-access/quick-links>`_
-* `NOAA Realtime Weather Models <http://www.ncdc.noaa.gov/data-access/model-data/model-datasets/numerical-weather-prediction>`_
-* `NOAA SURFRAD Meteorology and Radiation Datasets <https://www.esrl.noaa.gov/gmd/grad/stardata.html>`_
-* `The World Bank Open Data Resources for Climate Change <http://data.worldbank.org/developers/climate-data-api>`_
-* `UEA Climatic Research Unit <http://www.cru.uea.ac.uk/data>`_
-* `WorldClim - Global Climate Data <http://www.worldclim.org>`_
-* `WU Historical Weather Worldwide <https://www.wunderground.com/history/index.html>`_
 
 
 Complex Networks
@@ -152,19 +125,6 @@ Data Challenges
 * `Bruteforce Database <https://github.com/duyetdev/bruteforce-database>`_
 * `TravisTorrent Dataset - MSR'2017 Mining Challenge <https://travistorrent.testroots.org/>`_
 
-Earth Science
--------------
-
-* `AQUASTAT - Global water resources and uses <http://www.fao.org/nr/water/aquastat/data/query/index.html?lang=en>`_
-* `BODC - marine data of ~22K vars <https://www.bodc.ac.uk/data/>`_
-* `Earth Models <http://www.earthmodels.org/>`_
-* `EOSDIS - NASA's earth observing system data <http://sedac.ciesin.columbia.edu/data/sets/browse>`_
-* `Integrated Marine Observing System (IMOS) - roughly 30TB of ocean measurements <https://imos.aodn.org.au>`_ or `on S3 <http://imos-data.s3-website-ap-southeast-2.amazonaws.com/>`_
-* `Marinexplore - Open Oceanographic Data <http://marinexplore.org/>`_
-* `Smithsonian Institution Global Volcano and Eruption Database <http://volcano.si.edu/>`_
-* `USGS Earthquake Archives <http://earthquake.usgs.gov/earthquakes/search/>`_
-
-
 Economics
 ---------
 
@@ -186,48 +146,6 @@ Economics
 * `UN Commodity Trade Statistics <http://comtrade.un.org/db/>`_
 * `UN Human Development Reports <http://hdr.undp.org/en>`_
 
-
-Education
-------------
-
-* `College Scorecard Data <https://collegescorecard.ed.gov/data/>`_
-* `Student Data from Free Code Camp <http://academictorrents.com/details/030b10dad0846b5aecc3905692890fb02404adbf>`_
-
-
-Energy
-------
-
-* `AMPds <http://ampds.org/>`_
-* `BLUEd <http://nilm.cmubi.org/>`_
-* `COMBED <http://combed.github.io/>`_
-* `Dataport <https://dataport.pecanstreet.org/>`_
-* `DRED <http://www.st.ewi.tudelft.nl/~akshay/dred/>`_
-* `ECO <http://www.vs.inf.ethz.ch/res/show.html?what=eco-data>`_
-* `EIA <http://www.eia.gov/electricity/data/eia923/>`_
-* `HES <http://randd.defra.gov.uk/Default.aspx?Menu=Menu&Module=More&Location=None&ProjectID=17359&FromSearch=Y&Publisher=1&SearchText=EV0702&SortString=ProjectCode&SortOrder=Asc&Paging=10#Description>`_ - Household Electricity Study, UK
-* `HFED <http://hfed.github.io/>`_
-* `iAWE <http://iawe.github.io/>`_
-* `PLAID <http://plaidplug.com/>`_ - the Plug Load Appliance Identification Dataset
-* `REDD <http://redd.csail.mit.edu/>`_
-* `Tracebase <https://www.tracebase.org>`_
-* `UK-DALE <http://www.doc.ic.ac.uk/~dk3810/data/>`_ - UK Domestic Appliance-Level Electricity
-* `WHITED <http://nilmworkshop.org/2016/proceedings/Poster_ID18.pdf>`_
-
-
-
-Finance
--------
-
-* `CBOE Futures Exchange <http://cfe.cboe.com/Data/>`_
-* `Google Finance <https://www.google.com/finance>`_
-* `Google Trends <http://www.google.com/trends?q=google&ctab=0&geo=all&date=all&sort=0>`_
-* `NASDAQ <https://data.nasdaq.com/>`_
-* `OANDA <http://www.oanda.com/>`_
-* `OSU Financial data <http://fisher.osu.edu/fin/fdf/osudata.htm>`_
-* `Quandl <https://www.quandl.com/>`_
-* `St Louis Federal <https://research.stlouisfed.org/fred2/>`_
-* `Yahoo Finance <http://finance.yahoo.com/>`_
-* `NYSE Market Data <ftp://ftp.nyxdata.com>`_ (see FTP link on `RAW <https://raw.githubusercontent.com/caesar0301/awesome-public-datasets/master/README.rst>`_)
 
 
 GIS
@@ -325,19 +243,6 @@ Machine Learning
 * `Restaurants Health Score Data in San Francisco <http://missionlocal.org/san-francisco-restaurant-health-inspections/>`_
 * `UCI Machine Learning Repository <http://archive.ics.uci.edu/ml/>`_
 * `Yahoo! Ratings and Classification Data <http://webscope.sandbox.yahoo.com/catalog.php?datatype=r>`_
-
-
-Museums
--------
-
-* `Canada Science and Technology Museums Corporation's Open Data <http://techno-science.ca/en/data.php>`_
-* `Cooper-Hewitt's Collection Database <https://github.com/cooperhewitt/collection>`_
-* `Minneapolis Institute of Arts metadata <https://github.com/artsmia/collection>`_
-* `Natural History Museum (London) Data Portal <http://data.nhm.ac.uk/>`_
-* `Rijksmuseum Historical Art Collection <https://www.rijksmuseum.nl/en/api>`_
-* `Tate Collection metadata <https://github.com/tategallery/collection>`_
-* `The Getty vocabularies <http://vocab.getty.edu>`_
-
 
 Natural Language
 ----------------
@@ -530,17 +435,6 @@ Software
 
 * `FLOSSmole data about free, libre, and open source software development <http://flossdata.syr.edu/data/>`_
 
-Sports
-------
-
-* `Basketball (NBA/NCAA/Euro) Player Database and Statistics <http://www.draftexpress.com/stats.php>`_
-* `Betfair Historical Exchange Data <http://data.betfair.com/>`_
-* `Cricsheet Matches (cricket) <http://cricsheet.org/>`_
-* `Ergast Formula 1, from 1950 up to date (API) <http://ergast.com/mrd/db>`_
-* `Football/Soccer resources (data and APIs) <http://www.jokecamp.com/blog/guide-to-football-and-soccer-data-and-apis/>`_
-* `Lahman's Baseball Database <http://www.seanlahman.com/baseball-archive/statistics/>`_
-* `Pinhooker: Thoroughbred Bloodstock Sale Data <https://github.com/phillc73/pinhooker>`_
-* `Retrosheet Baseball Statistics <http://www.retrosheet.org/game.htm>`_
 
 
 Time Series
@@ -551,35 +445,6 @@ Time Series
 * `Heart Rate Time Series from MIT <http://ecg.mit.edu/time-series/>`_
 * `Time Series Data Library (TSDL) from MU <https://datamarket.com/data/list/?q=provider:tsdl>`_
 * `UC Riverside Time Series Dataset <http://www.cs.ucr.edu/~eamonn/time_series_data/>`_
-
-
-Transportation
---------------
-
-* `Airlines OD Data 1987-2008 <http://stat-computing.org/dataexpo/2009/the-data.html>`_
-* `Bay Area Bike Share Data <http://www.bayareabikeshare.com/open-data>`_
-* `Bike Share Systems (BSS) collection <https://github.com/BetaNYC/Bike-Share-Data-Best-Practices/wiki/Bike-Share-Data-Systems>`_
-* `GeoLife GPS Trajectory from Microsoft Research <http://research.microsoft.com/en-us/downloads/b16d359d-d164-469e-9fd4-daa38f2b2e13/>`_
-* `German train system by Deutsche Bahn <http://data.deutschebahn.com/datasets/>`_
-* `Hubway Million Rides in MA <http://hubwaydatachallenge.org/trip-history-data/>`_
-* `Marine Traffic - ship tracks, port calls and more <http://www.marinetraffic.com/de/ais-api-services>`_
-* `Montreal BIXI Bike Share <https://montreal.bixi.com/donn%C3%A9es-libre-service>`_
-* `NYC Taxi Trip Data 2009- <http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml>`_
-* `NYC Taxi Trip Data 2013 (FOIA/FOILed) <https://archive.org/details/nycTaxiTripData2013>`_
-* `NYC Uber trip data April 2014 to September 2014 <https://github.com/fivethirtyeight/uber-tlc-foil-response>`_
-* `Open Traffic collection <https://github.com/graphhopper/open-traffic-collection>`_
-* `OpenFlights - airport, airline and route data <http://openflights.org/data.html>`_
-* `Philadelphia Bike Share Stations (JSON) <https://www.rideindego.com/stations/json/>`_
-* `Plane Crash Database, since 1920 <http://www.planecrashinfo.com/database.htm>`_
-* `RITA Airline On-Time Performance data <http://www.transtats.bts.gov/Tables.asp?DB_ID=120>`_
-* `RITA/BTS transport data collection (TranStat) <http://www.transtats.bts.gov/DataIndex.asp>`_
-* `Toronto Bike Share Stations (XML file) <http://www.bikesharetoronto.com/data/stations/bikeStations.xml>`_
-* `Transport for London (TFL) <https://tfl.gov.uk/info-for/open-data-users/data-feeds>`_
-* `Travel Tracker Survey (TTS) for Chicago <http://www.cmap.illinois.gov/data/transportation/travel-tracker-survey>`_
-* `U.S. Bureau of Transportation Statistics (BTS) <http://www.rita.dot.gov/bts/>`_
-* `U.S. Domestic Flights 1990 to 2009 <http://academictorrents.com/details/a2ccf94bbb4af222bf8e69dad60a68a29f310d9a>`_
-* `U.S. Freight Analysis Framework since 2007 <http://ops.fhwa.dot.gov/freight/freight_analysis/faf/index.htm>`_
-
 
 Complementary Collections
 -------------------------
