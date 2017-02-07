@@ -58,7 +58,7 @@ Biology
 * `UCSC Public Data <http://hgdownload.soe.ucsc.edu/downloads.html>`_
 * `Universal Protein Resource (UnitProt) <http://www.uniprot.org/downloads>`_
 * `UniGene <http://www.ncbi.nlm.nih.gov/unigene>`_
-
+* `Aging, Dementia and Traumatic Brain Injury Study <http://aging.brain-map.org/overview/home>`_
 
 Complex Networks
 ----------------
@@ -222,6 +222,8 @@ Image Processing
 * `Adience Unfiltered faces for gender and age classification <http://www.openu.ac.il/home/hassner/Adience/data.html>`_
 * `The Action Similarity Labeling (ASLAN) Challenge <http://www.openu.ac.il/home/hassner/data/ASLAN/ASLAN.html>`_
 * `Violent-Flows - Crowd Violence \ Non-violence Database and benchmark <http://www.openu.ac.il/home/hassner/data/violentflows/>`_
+* `YouTube-BoundingBoxes Dataset <https://research.google.com/youtube-bb/index.html>`_
+* `YouTube8M Video Dataset <https://research.google.com/youtube8M/index.html>`_
 
 Machine Learning
 ----------------
